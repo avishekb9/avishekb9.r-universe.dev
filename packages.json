@@ -2,5 +2,13 @@
   {
     "package": "sochcontagion",
     "url": "https://github.com/avishekb9/sochcontagion"
+  },
+  {
+    "package": "contagionchannels",
+    "url": "https://github.com/avishekb9/contagionchannels"
+  },
+  {
+    "package": "ManyIVsNets",
+    "url": "https://github.com/avishekb9/ManyIVsNets"
   }
 ]
